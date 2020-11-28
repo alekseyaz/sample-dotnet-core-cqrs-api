@@ -267,3 +267,4 @@ pub/
 
 #Ignore logs folder
 Logs
+src/Tests/SampleProject.IntegrationTests/Properties/launchSettings.json
